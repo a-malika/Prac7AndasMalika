@@ -13,7 +13,7 @@ namespace Practice7
         {
             this.costCalculationStrategy = costCalculationStrategy;
         }
-        public void SetPaymentMethod(ICostCalculationStrategy costCalculationStrategy)
+        public void SetCalculationMethod(ICostCalculationStrategy costCalculationStrategy)
         {
             this.costCalculationStrategy = costCalculationStrategy;
         }
